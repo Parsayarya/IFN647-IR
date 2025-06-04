@@ -22,7 +22,7 @@ A comprehensive implementation of three information retrieval models: **BM25**, 
 - [Usage](#usage)
 - [Models](#models)
 - [Evaluation](#evaluation)
-- 
+
 ## Installation
 
 ### Prerequisites
